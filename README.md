@@ -1,7 +1,7 @@
 # projet-M2-SSI
 Ce projet constitue projet de fin de cycle en master 2 sécurité des systèmes informatiques.
 
-Le projet est defini comme suit:
+Le projet a été donné par madame Lynda Mokdad (enseigante à l'université Paris-Est Créteil) et est defini comme suit:
 
 Il s’agit de réaliser une application client /serveur sécurisée dont le serveur
 est une banque et les clients peuvent se connecter pour consulter leur
