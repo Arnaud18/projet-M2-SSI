@@ -21,4 +21,4 @@ Objectifs :
 1. Etablir un échange sécurisé entre le serveur et le client tel que le
 client puisse envoyer des requêtes pour consulter son compte,
 effectuer un virement, etc.
-2. Proposer une solution pour garantir l’authenticité des clients
+2. Proposer une solution pour garantir l’authenticité des clients.
